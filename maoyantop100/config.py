@@ -1,0 +1,6 @@
+MONGO_URL = 'localhost'
+MONGO_DB = 'top100'
+MONGO_TABLE = 'top100'
+
+GROUP_START = 0
+GROUP_END = 5
